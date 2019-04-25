@@ -5,20 +5,10 @@
     <link>http://wenhe.github.io/</link>
     <description>Recent content on WenHe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 25 Apr 2019 10:45:24 +0800</lastBuildDate>
+    <language>zh-cn</language>
     
 	<atom:link href="http://wenhe.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Test</title>
-      <link>http://wenhe.github.io/post/test/</link>
-      <pubDate>Thu, 25 Apr 2019 10:45:24 +0800</pubDate>
-      
-      <guid>http://wenhe.github.io/post/test/</guid>
-      <description>lalala</description>
-    </item>
     
   </channel>
 </rss>
